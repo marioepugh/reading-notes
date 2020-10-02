@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Reading Notes
 
-You can use the [editor on GitHub](https://github.com/marioepugh/reading-notes/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Where I can keep track of my observations and questions from the reading assignments throughout the course.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Utilize at least 5 different features of Markdown to structure your page
 
-### Markdown
+**Notes**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Monday_
 
-```markdown
-Syntax highlighted code block
+- Takes plenty of notes
+- Finish prework assignments by 9am.
 
-# Header 1
-## Header 2
-### Header 3
+## Code 102 - Intro to Software Development
 
-- Bulleted
-- List
+## Code 201 - Foundations of Software Development
 
-1. Numbered
-2. List
+## Code 301 - Intermediate Software Development
 
-**Bold** and _Italic_ and `Code` text
+## Code 401 - Advanced Software Development
 
-[Link](url) and ![Image](src)
-```
+1. Monday
+2.
+3.
+4.
+5.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marioepugh/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

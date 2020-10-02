@@ -20,8 +20,12 @@ _Monday_
 ## Code 401 - Advanced Software Development
 
 1. Monday
-2.
-3.
-4.
-5.
+
+2. Tuesday
+
+3. Wednesday
+
+4. Thursday
+
+5. Friday
 

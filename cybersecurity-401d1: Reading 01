@@ -1,3 +1,5 @@
 Mario Pugh		October 5, 2020
 
-The reading was on Kali Linux and Metasploit
+The reading was on Kali Linux, which is a Linux based OS containing six hundred tools geared towards different security tasks like pen testing, security research, computer forensics and reverse engineering. The software is free, open source, file system hierarchy standance compliant and completely customizable.  
+
+The rest of the reading was on Metasploit which is a popular penetration testing tool and hacking tool used by red and blue team, a framework that allows you to pick a target, pick and exploit and payload to drop and simply hit enter. It comes preinstalled with Kali Linux, has a command line interface, integrates with other tools making it possible to find weaknesses you are looking for.

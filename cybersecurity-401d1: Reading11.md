@@ -1,4 +1,4 @@
-Mario Pugh      Otober 16, 2020
+Mario Pugh          Otober 16, 2020
 
 Wireshark is useful for sniffing packets traveling across your network. It can be used to steal authorization passwords since those passwords are transmitted across the network. All the packets on the network that actually arrive at your PCs (or Mac) will be inspected to check if they have a destination that matches the network card if the destination address is a match, the packets are destined for your PC and will be passed up to the CPU and processed if the destination address in the packet does not match the address of the network card the packets will simply be ignored and discarded. 
 

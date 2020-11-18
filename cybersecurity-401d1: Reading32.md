@@ -1,4 +1,4 @@
-Mario Pugh    November 17, 2020
+Mario Pugh       November 17, 2020
 
 What Is Malware Analysis? Definition, Types, Stages, and Best Practices
 

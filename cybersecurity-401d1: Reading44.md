@@ -1,3 +1,3 @@
-What is Metasploit?
+What is Metasploit? 
 
 Metasploit is a penetration testing framework that makes hacking simple. It's an essential tool for many attackers and defenders. Point Metasploit at your target, pick an exploit, what payload to drop, and hit Enter. The core Metasploit Framework is both free and libre software and comes pre-installed in Kali Linux. The framework offers only a command-line interface, but those wanting GUI-based click-and-drag hacking and other cool features. Metasploit integrates seamlessly with Nmap, SNMP scanning and Windows patch enumeration, among others. There's even a bridge to Nessus.
